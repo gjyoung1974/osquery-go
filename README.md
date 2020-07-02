@@ -246,7 +246,7 @@ sudo osqueryd --extensions_autoload=/tmp/extensions.load --logger-plugin=my_logg
 ```
 
 
-## Contributing
+## All credit goes to Kolide OSS project
 
 For more information on contributing to this project, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
